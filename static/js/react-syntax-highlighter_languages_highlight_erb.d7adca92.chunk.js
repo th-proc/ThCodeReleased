@@ -1,0 +1,2 @@
+(this["webpackJsonpantd-thcode"]=this["webpackJsonpantd-thcode"]||[]).push([[54],{2164:function(n,e){n.exports=function(n){return{name:"ERB",subLanguage:"xml",contains:[n.COMMENT("<%#","%>"),{begin:"<%[%=-]?",end:"[%-]?%>",subLanguage:"ruby",excludeBegin:!0,excludeEnd:!0}]}}}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_highlight_erb.d7adca92.chunk.js.map
