@@ -1,2 +1,0 @@
-(this["webpackJsonpantd-thcode"]=this["webpackJsonpantd-thcode"]||[]).push([[114],{2228:function(n,t){n.exports=function(n){return{name:"Node REPL",contains:[{className:"meta",starts:{end:/ |$/,starts:{end:"$",subLanguage:"javascript"}},variants:[{begin:/^>(?=[ ]|$)/},{begin:/^\.\.\.(?=[ ]|$)/}]}]}}}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_highlight_nodeRepl.1394a394.chunk.js.map

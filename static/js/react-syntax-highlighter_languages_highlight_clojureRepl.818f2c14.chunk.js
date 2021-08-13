@@ -1,2 +1,0 @@
-(this["webpackJsonpantd-thcode"]=this["webpackJsonpantd-thcode"]||[]).push([[29],{2138:function(n,e){n.exports=function(n){return{name:"Clojure REPL",contains:[{className:"meta",begin:/^([\w.-]+|\s*#_)?=>/,starts:{end:/$/,subLanguage:"clojure"}}]}}}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_highlight_clojureRepl.818f2c14.chunk.js.map

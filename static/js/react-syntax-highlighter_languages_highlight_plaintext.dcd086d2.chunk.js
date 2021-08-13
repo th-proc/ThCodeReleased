@@ -1,2 +1,0 @@
-(this["webpackJsonpantd-thcode"]=this["webpackJsonpantd-thcode"]||[]).push([[126],{2240:function(t,e){t.exports=function(t){return{name:"Plain text",aliases:["text","txt"],disableAutodetect:!0}}}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_highlight_plaintext.dcd086d2.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonpantd-thcode"]=this["webpackJsonpantd-thcode"]||[]).push([[87],{2226:function(a,e){a.exports=function(a){return{name:"Julia REPL",contains:[{className:"meta",begin:/^julia>/,relevance:10,starts:{end:/^(?![ ]{6})/,subLanguage:"julia"},aliases:["jldoctest"]}]}}}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_highlight_juliaRepl.d2db2f44.chunk.js.map
